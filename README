@@ -1,0 +1,25 @@
+# Explore-US-Bikeshare-Data
+Udacity Programming for Data Science Degree - Project II
+
+## Overview
+As part of this project, I will examine the bike share systems of three major U.S. cities - Chicago, New York City, and Washington - using data from these systems. Through Python, I will compile code that imports data and calculates descriptive statistics about it. Also, I'll create a script that will take raw input and create an interactive terminal experience to present these statistics.
+
+## What Software Do I Need?
+To complete this project, i'll require the following softwares:
+
+- Python 
+- A text editor, like Sublime or Atom
+- A terminal application
+
+## Answering Questions
+Through writing code, I'm able to answer the following questions about the bike share data:
+
+- What month occurs most often in the start time?
+- What day of the week (Monday, Tuesday, etc.) occurs most often in the start time? 
+- What hour of the day occurs most often in the start time?
+- What is the total trip duration and average trip duration?
+- What is the most frequently used start station and most frequently used end station?
+- What is the most common trip (i.e., the combination of start station and end station that occurs the most often)?
+- What are the counts of each user type?
+- What are the counts of gender?
+- What is the earliest birth year (when the oldest person was born), most recent birth year, and most common birth year?
