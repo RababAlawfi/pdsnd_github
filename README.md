@@ -10,8 +10,9 @@ Biceshare Project
 the project data analysis
 
 ### Files used
-1-csv
-2-paython language 
+1-.csv
+2-paython language (.py)
+
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
